@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+node_modules/
+dist/
+renders/
+render-frames/
+snapshots/
+snapshots-vertical/
+capture/
+*.mp4
+*.mov
+*.webm
+*.log
